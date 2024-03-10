@@ -1,0 +1,23 @@
+.active {
+    color: #fff700;
+}
+
+.inactive {
+    color: #000000;
+}
+
+.Starrating {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 10rem;
+
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: 600;
+}
